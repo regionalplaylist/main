@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2VBueBEJf4NX7Gve9ASByp?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
 You can use the [editor on GitHub](https://github.com/regionalplaylist/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
