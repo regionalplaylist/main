@@ -1,41 +1,15 @@
-## Welcome to GitHub Pages
+## Regional Playlist 🔥🔥🔥
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2VBueBEJf4NX7Gve9ASByp?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1zVxzLuwFghawS50aJojxS?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7mwH4rIEud9i9t1b5WTNuj?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-You can use the [editor on GitHub](https://github.com/regionalplaylist/main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0OZmGKUvoIizPulw7Cv7UK?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2XAssTWQzNAtQFWV1k8HR3?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-### Markdown
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0D6gAA3v1NlUEsljjguuYN?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/regionalplaylist/main/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/40emWMKnxwpds0BeGcmPYW?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
