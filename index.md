@@ -1,5 +1,9 @@
 ## Regional Playlist 🔥🔥🔥
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3rlypLkySYw0KZfpBZK1DS?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0892ImQmSMh3Vw7RUIZ6LI?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2VBueBEJf4NX7Gve9ASByp?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1zVxzLuwFghawS50aJojxS?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
