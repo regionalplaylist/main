@@ -13,3 +13,6 @@
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0D6gAA3v1NlUEsljjguuYN?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/40emWMKnxwpds0BeGcmPYW?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeBpDXc0xTlTD5hlY-tz_7pOEogaq6pOSESArJFH7hx2SRdBg/viewform?embedded=true" width="640" height="594" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
