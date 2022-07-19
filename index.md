@@ -1,6 +1,6 @@
 ## Regional Playlist 🔥🔥🔥
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6diU9TU5omPknggibg8liP?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6z8UFafZ24EXtO9BDV3NZI?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
